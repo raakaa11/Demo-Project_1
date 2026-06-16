@@ -12,3 +12,4 @@ data science
 ccna
 SAP
 Cyber security
+web development
