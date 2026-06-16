@@ -11,3 +11,4 @@ data analyst
 data science
 ccna
 SAP
+Cyber security
