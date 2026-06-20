@@ -14,3 +14,4 @@ SAP
 Cyber security
 web development
 data engineer
+business analyst
