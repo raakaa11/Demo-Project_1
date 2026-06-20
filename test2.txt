@@ -1,1 +1,2 @@
 I'm preparing for data analyst.
+git add 
